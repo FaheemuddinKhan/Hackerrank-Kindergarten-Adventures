@@ -1,0 +1,6 @@
+1) Find all the values in the 'diagonals': the number of children that finish the painting exactly when the teacher passes to collect it.
+
+2) Find the number of paintings finished for the case of the teacher starting at child 0. This can be done in the for loop of step 1.
+
+3) To move one child to the right (child 1), take the value for child 0, subtract the diagonal for child 0 and add 1 since child 0 will have for sure finished the painting. Then repeat this step until the last child.
+
