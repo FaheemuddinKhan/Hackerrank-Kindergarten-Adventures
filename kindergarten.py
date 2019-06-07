@@ -4,7 +4,7 @@ import os
 import sys
 
 #
-# Complete the solve function below.
+# 
 #
 def solve(t):
     diagonals = [0] * len(t)
